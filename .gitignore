@@ -1,52 +1,38 @@
-# Prerequisites
-*.d
+# Created by https://www.toptal.com/developers/gitignore/api/codeblocks,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=codeblocks,windows
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
 
-# Linker output
-*.ilk
-*.map
-*.exp
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
 
-# Precompiled Headers
-*.gch
-*.pch
+# Dump file
+*.stackdump
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Folder config file
+[Dd]esktop.ini
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Windows shortcuts
+*.lnk
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# End of https://www.toptal.com/developers/gitignore/api/codeblocks,windows
