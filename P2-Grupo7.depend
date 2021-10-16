@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1633566065 source:c:\users\vilur\documents\p2-grupo7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<strings.h>
+	"articulo.h"
+	"menu.h"
+	"RAL.h"
+	"RAC.h"
+	"ABB.h"
+
+1634411991 c:\users\vilur\documents\p2-grupo7\articulo.h
+
+1634418203 c:\users\vilur\documents\p2-grupo7\menu.h
+
+1633570514 c:\users\vilur\documents\p2-grupo7\ral.h
+
+1633570690 c:\users\vilur\documents\p2-grupo7\rac.h
+
+1634412844 c:\users\vilur\documents\p2-grupo7\abb.h
+
